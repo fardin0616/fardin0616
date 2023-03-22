@@ -6,7 +6,7 @@
 
 
 ## 👨🏻‍💻 &nbsp; About Me
-- 🚀 Full stack-Developer  from Singapore, Singapore. 
+- 🚀 Full stack-Developer  from Singapore. 
 - 👯 My main Goal is <strong> CLIENTS' BENEFIT </strong> 🤝
 - 💬 Ask me about anything, I like to learn from the others and learn each other even now.<br>
 -  ⚡️ <strong>Fun fact:</strong> You never feel you are expert everyday is learning.<br>
@@ -100,11 +100,11 @@
   <div>
  </div>
 
-
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/lim-say-juan-569438269/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"
 ' alt='LinkedIn' width="5%"></a>
 <a href="https://sj-lim.onrender.com/" target="_blank" ><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJUKmmNHlaQcawVMWJi_twnNRVQYDehSXA&usqp=CAU" alt="Potfolio logo" width="5%" title='Potfolio'/>
 </p>  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrlim0802&label=Profile%20views&color=0e75b6&style=flat" alt="mrlim0802" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrlim0802&label=Profile%20views&color=0e75b6&style=flat" alt="mrlim0802" /> </p> -->
